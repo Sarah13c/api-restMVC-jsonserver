@@ -1,0 +1,202 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "description": "Alimentos",
+      "products": null
+    },
+    {
+      "description": "Bebidas",
+      "id": 2
+    },
+    {
+      "description": "Productos de Aseo",
+      "id": 3
+    },
+    {
+      "description": "Ropa",
+      "id": 4
+    },
+    {
+      "description": "Medicamentos",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "description": "Electrodoméstico"
+    },
+    {
+      "id": 7,
+      "description": "Frutas",
+      "products": null
+    },
+    {
+      "id": 8,
+      "description": "Verduras",
+      "products": null
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "description": "Arroz",
+      "eanCode": "7707548516286",
+      "price": 500,
+      "unit": "Lb",
+      "category": null
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "description": "Papa Rellena",
+      "eanCode": "7707548941507",
+      "price": 1500,
+      "unit": "Lb"
+    },
+    {
+      "categoryId": 2,
+      "description": "Cocacola",
+      "eanCode": "7707548160274",
+      "id": 3,
+      "price": 2500,
+      "unit": "Lb"
+    },
+    {
+      "categoryId": 2,
+      "description": "Pepsi",
+      "eanCode": "7707548110958",
+      "id": 4,
+      "price": 2500,
+      "unit": "Und"
+    },
+    {
+      "categoryId": 3,
+      "description": "Detergente",
+      "eanCode": "7707548758303",
+      "id": 5,
+      "price": 12500,
+      "unit": "Kg"
+    },
+    {
+      "categoryId": 3,
+      "description": "Cloro",
+      "eanCode": "7707548210801",
+      "id": 6,
+      "price": 21500,
+      "unit": "CC"
+    },
+    {
+      "categoryId": 4,
+      "description": "Camisa",
+      "eanCode": "7707548472247",
+      "id": 7,
+      "price": 1500,
+      "unit": "Und"
+    },
+    {
+      "categoryId": 4,
+      "description": "Pantalon",
+      "eanCode": "7707548427902",
+      "id": 8,
+      "price": 1500,
+      "unit": "Und"
+    },
+    {
+      "categoryId": 5,
+      "description": "Jarabe para la Tos",
+      "eanCode": "7707548799412",
+      "id": 9,
+      "price": 32500,
+      "unit": "Und"
+    },
+    {
+      "id": 10,
+      "categoryId": 6,
+      "description": "Cargador",
+      "eanCode": "7836203847193",
+      "price": 290,
+      "unit": "Und"
+    },
+    {
+      "id": 11,
+      "categoryId": 6,
+      "description": "Computador",
+      "eanCode": "7888567656573",
+      "price": 390,
+      "unit": "Und"
+    },
+    {
+      "id": 12,
+      "categoryId": 2,
+      "description": "Cuerpo lite",
+      "eanCode": "1236541269874",
+      "price": 260,
+      "unit": "Und",
+      "category": null
+    },
+    {
+      "id": 13,
+      "categoryId": 1,
+      "description": "Pandebono",
+      "eanCode": "1236541269870",
+      "price": 1000,
+      "unit": "Und",
+      "category": null
+    },
+    {
+      "id": 14,
+      "categoryId": 8,
+      "description": "Arracacha",
+      "eanCode": "1236541256874",
+      "price": 1200,
+      "unit": "Und",
+      "category": null
+    },
+    {
+      "id": 15,
+      "categoryId": 4,
+      "description": "Medias",
+      "eanCode": "1236541269876",
+      "price": 12000,
+      "unit": "Und",
+      "category": null
+    },
+    {
+      "id": 16,
+      "categoryId": 2,
+      "description": "Pony malta",
+      "eanCode": "1236541256878",
+      "price": 1500,
+      "unit": "Und",
+      "category": null
+    },
+    {
+      "id": 17,
+      "categoryId": 8,
+      "description": "Verdurassss",
+      "eanCode": "1236541269879",
+      "price": 12000,
+      "unit": "Und",
+      "category": null
+    },
+    {
+      "id": 18,
+      "categoryId": 3,
+      "description": "Escoba",
+      "eanCode": "1236541269870",
+      "price": 12000,
+      "unit": "Und",
+      "category": null
+    },
+    {
+      "id": 19,
+      "categoryId": 1,
+      "description": "Pan De Yuca",
+      "eanCode": "1236541269875",
+      "price": 500,
+      "unit": "Und",
+      "category": null
+    }
+  ]
+}
